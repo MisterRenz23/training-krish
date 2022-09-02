@@ -6,3 +6,4 @@ let something = 0;
 let trypangusab = 9;
 let usabnasad = 2;
 let test;
+let all = 01;
